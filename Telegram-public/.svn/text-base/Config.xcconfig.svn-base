@@ -1,0 +1,5 @@
+TELEGRAM_APP_NAME=爱聊
+TELEGRAPH_BUNDLE_ID=org.freedom.TelegramEnterprise
+TELEGRAM_APPSTORE_ID = @207489
+
+#include "Common.xcconfig"

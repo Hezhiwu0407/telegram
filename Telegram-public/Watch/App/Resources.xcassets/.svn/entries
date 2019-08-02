@@ -1,0 +1,158 @@
+10
+
+dir
+38
+svn://tianzong@192.168.1.130/IOS/Telegram-public/Watch/App/Resources.xcassets
+svn://tianzong@192.168.1.130
+
+
+
+2019-07-12T06:39:25.366882Z
+4
+pony
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+365afbb5-10f3-4220-9bdf-b90025a0bd20
+
+ChatBubbleChannel.imageset
+dir
+
+MediaAudioPlay.imageset
+dir
+
+StatusDot.imageset
+dir
+
+BotCommandIcon.imageset
+dir
+
+BubbleSpinner
+dir
+
+MediaAudio.imageset
+dir
+
+BubbleNotification.imageset
+dir
+
+Compose.imageset
+dir
+
+ChatBubbleOutgoing.imageset
+dir
+
+RemotePlayVideo.imageset
+dir
+
+Contents.json
+file
+
+
+
+
+2019-07-27T03:09:39.000000Z
+31cc68f34934a99c0b0c1bebde56309c
+2019-07-11T09:14:27.475568Z
+2
+tianzong
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62
+
+BubbleFooter.imageset
+dir
+
+PasscodeIcon.imageset
+dir
+
+StickerIcon.imageset
+dir
+
+ChatBubbleIncoming.imageset
+dir
+
+PickLocation.imageset
+dir
+
+BubbleSpinnerIncoming
+dir
+
+WatchAppIcon.appiconset
+dir
+
+MediaPhoto.imageset
+dir
+
+MessageStatusDot.imageset
+dir
+
+RemotePlayAudio.imageset
+dir
+
+MicAccessIcon.imageset
+dir
+
+MediaVideo.imageset
+dir
+
+MediaLocation.imageset
+dir
+
+VerifiedProfile.imageset
+dir
+
+MediaDocument.imageset
+dir
+
+BotKeyboardIcon.imageset
+dir
+
+File.imageset
+dir
+
+Complication.complicationset
+dir
+
+MicIcon.imageset
+dir
+
+LoginIcon.imageset
+dir
+
+LocationIcon.imageset
+dir
+
+Spinner
+dir
+

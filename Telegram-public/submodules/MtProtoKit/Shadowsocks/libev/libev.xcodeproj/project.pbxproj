@@ -1,0 +1,180 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		F106858722C379790044A094 /* configure.ac */ = {isa = PBXFileReference; lastKnownFileType = text; path = configure.ac; sourceTree = "<group>"; };
+		F106858822C379790044A094 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		F106858922C379790044A094 /* ev_port.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ev_port.c; sourceTree = "<group>"; };
+		F106858A22C379790044A094 /* config.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
+		F106858B22C379790044A094 /* event.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = event.h; sourceTree = "<group>"; };
+		F106858C22C379790044A094 /* ev_select.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ev_select.c; sourceTree = "<group>"; };
+		F106858D22C379790044A094 /* ev_vars.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ev_vars.h; sourceTree = "<group>"; };
+		F106858E22C379790044A094 /* Changes */ = {isa = PBXFileReference; lastKnownFileType = text; path = Changes; sourceTree = "<group>"; };
+		F106858F22C379790044A094 /* ev.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ev.c; sourceTree = "<group>"; };
+		F106859022C379790044A094 /* config.h.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = config.h.in; sourceTree = "<group>"; };
+		F106859122C379790044A094 /* ev_wrap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ev_wrap.h; sourceTree = "<group>"; };
+		F106859222C379790044A094 /* ev++.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ev++.h"; sourceTree = "<group>"; };
+		F106859322C379790044A094 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		F106859422C379790044A094 /* Makefile.am */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
+		F106859522C379790044A094 /* event.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = event.c; sourceTree = "<group>"; };
+		F106859622C379790044A094 /* Symbols.event */ = {isa = PBXFileReference; lastKnownFileType = text; path = Symbols.event; sourceTree = "<group>"; };
+		F106859722C379790044A094 /* ev.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ev.h; sourceTree = "<group>"; };
+		F106859822C379790044A094 /* ev_poll.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ev_poll.c; sourceTree = "<group>"; };
+		F106859922C379790044A094 /* ev_win32.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ev_win32.c; sourceTree = "<group>"; };
+		F106859A22C379790044A094 /* Symbols.ev */ = {isa = PBXFileReference; lastKnownFileType = text; path = Symbols.ev; sourceTree = "<group>"; };
+		F106859B22C379790044A094 /* ev_kqueue.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ev_kqueue.c; sourceTree = "<group>"; };
+		F106859C22C379790044A094 /* Makefile.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
+		F106859D22C379790044A094 /* autogen.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = autogen.sh; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F106858122C379790044A094 = {
+			isa = PBXGroup;
+			children = (
+				F106858722C379790044A094 /* configure.ac */,
+				F106858822C379790044A094 /* LICENSE */,
+				F106858922C379790044A094 /* ev_port.c */,
+				F106858A22C379790044A094 /* config.h */,
+				F106858B22C379790044A094 /* event.h */,
+				F106858C22C379790044A094 /* ev_select.c */,
+				F106858D22C379790044A094 /* ev_vars.h */,
+				F106858E22C379790044A094 /* Changes */,
+				F106858F22C379790044A094 /* ev.c */,
+				F106859022C379790044A094 /* config.h.in */,
+				F106859122C379790044A094 /* ev_wrap.h */,
+				F106859222C379790044A094 /* ev++.h */,
+				F106859322C379790044A094 /* README */,
+				F106859422C379790044A094 /* Makefile.am */,
+				F106859522C379790044A094 /* event.c */,
+				F106859622C379790044A094 /* Symbols.event */,
+				F106859722C379790044A094 /* ev.h */,
+				F106859822C379790044A094 /* ev_poll.c */,
+				F106859922C379790044A094 /* ev_win32.c */,
+				F106859A22C379790044A094 /* Symbols.ev */,
+				F106859B22C379790044A094 /* ev_kqueue.c */,
+				F106859C22C379790044A094 /* Makefile.in */,
+				F106859D22C379790044A094 /* autogen.sh */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		F106858622C379790044A094 /* libev */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = F106859E22C379790044A094 /* Build configuration list for PBXLegacyTarget "libev" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = /Users/xuyi/Desktop/Shadowsocks/libev;
+			dependencies = (
+			);
+			name = libev;
+			passBuildSettingsInEnvironment = 1;
+			productName = libev;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		F106858222C379790044A094 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+			};
+			buildConfigurationList = F106858522C379790044A094 /* Build configuration list for PBXProject "libev" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F106858122C379790044A094;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F106858622C379790044A094 /* libev */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		F106858322C379790044A094 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		F106858422C379790044A094 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		F106859F22C379790044A094 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = libev;
+			};
+			name = Debug;
+		};
+		F10685A022C379790044A094 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = libev;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F106858522C379790044A094 /* Build configuration list for PBXProject "libev" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F106858322C379790044A094 /* Debug */,
+				F106858422C379790044A094 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F106859E22C379790044A094 /* Build configuration list for PBXLegacyTarget "libev" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F106859F22C379790044A094 /* Debug */,
+				F10685A022C379790044A094 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F106858222C379790044A094 /* Project object */;
+}

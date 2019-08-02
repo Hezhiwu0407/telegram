@@ -1,0 +1,13 @@
+/* Localized versions of Info.plist keys */
+
+"NSMotionUsageDescription" = "如果想给您的朋友发送位置信息，爱聊需要获取权限以便显示地图";
+"NSPhotoLibraryAddUsageDescription" = "需要您授权同意，方能将照片和视频存储到您的本地相册里";
+"NSPhotoLibraryUsageDescription" = "需要您授权同意，方能获取您相册里的照片和视频";
+"NSSiriUsageDescription" = "可以使用Siri发送消息";
+"NSMicrophoneUsageDescription" = "需要您授权同意，方能录音、拍摄视频以及分享给他人";
+"NSFaceIDUsageDescription" = "使用 FaceID 来解锁 爱聊";
+"NSContactsUsageDescription" = "爱聊会加密上传到云端联系人信息，方便您更快地找到好友";
+"NSLocationWhenInUseUsageDescription" = "如果想给您的朋友发送位置信息，爱聊需要获取权限以便显示地图";
+"NSCameraUsageDescription" = "需要您授权同意，方能拍摄和分享照片和视频";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "与好友分享实时位置，爱聊需要获取后台读取位置的权限，以便您的位置发生变化时，能及时分享给好友";
+"NSLocationAlwaysUsageDescription" = "与好友分享实时位置，爱聊需要获取后台读取位置的权限，以便您的位置发生变化时，能及时分享给好友。同时也需要该权限以便从苹果手表中发送位置信息";
